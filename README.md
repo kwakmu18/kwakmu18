@@ -11,7 +11,7 @@ I'm currently studying:
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mckkk119)](https://solved.ac/{mckkk119}) 
 
-<img src="http://mazandi.herokuapp.com/api?handle={mckkk119}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=mckkk119&theme=warm"/>
 
 <!--
 **kwakmu18/kwakmu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
