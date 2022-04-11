@@ -26,6 +26,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwakmu18)](https://github.com/kwakmu18/github-readme-stats)
 
+[![kwakmu18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwakmu18)](https://wakatime.com/@kwakmu18)
 
 <!--
 **kwakmu18/kwakmu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
