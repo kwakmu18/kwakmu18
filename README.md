@@ -24,6 +24,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kwakmu18&show_icons=true)
 <!--
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwakmu18)](https://github.com/kwakmu18/github-readme-stats)
+
 **kwakmu18/kwakmu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
