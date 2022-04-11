@@ -8,12 +8,10 @@
 
 <br/>
 <br/>
-<br/>
 
 ### ⚡What I'm using:
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
 
-</br>
 </br>
 </br>
 
@@ -22,7 +20,6 @@
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mckkk119)](https://solved.ac/{mckkk119}) 
 <img src="http://mazandi.herokuapp.com/api?handle=mckkk119&theme=warm"/>
 
-<br/>
 <br/>
 <br/>
 
