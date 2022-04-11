@@ -24,7 +24,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kwakmu18&show_icons=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwakmu18)](https://github.com/kwakmu18/github-readme-stats)
 
 [![kwakmu18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwakmu18)](https://wakatime.com/@kwakmu18)
 
