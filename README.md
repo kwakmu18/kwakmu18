@@ -2,7 +2,7 @@
  
 ### 🌱I'm currently studying: 
 
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/> [![wakatime](https://wakatime.com/badge/user/0ce88c5c-62f7-4206-a6dd-2c2584d76fde.svg)](https://wakatime.com/@0ce88c5c-62f7-4206-a6dd-2c2584d76fde)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwakmu18&layout=compact)](https://github.com/kwakmu18/github-readme-stats)
 
