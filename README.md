@@ -26,9 +26,7 @@
 
 <!--START_SECTION:waka-->
 
-[![kwakmu18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwakmu18&v=2)](https://wakatime.com/@kwakmu18)
-
-[![kwakmu18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwakmu18)](https://wakatime.com/@kwakmu18)
+[![kwakmu18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwakmu18&v=2)](https://wakatime.com/@kwakmu18&v=2)
 
 
 <!--END_SECTION:waka-->
