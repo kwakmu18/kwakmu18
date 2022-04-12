@@ -11,10 +11,9 @@
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> 
 
  #
-<img align='right' src="https://github-readme-stats.vercel.app/api/wakatime/?&kwakmu18&username=kwakmu18&layout=compact&&theme=default&link=https://www.github.com/kwakmu18/">
- 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakmu18&layout=compact&link=https://github.com/kwakmu18/github-readme-stats">
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?&kwakmu18&username=kwakmu18&layout=compact&&theme=default&link=https://www.github.com/kwakmu18/">
+ 
 
 
  #
