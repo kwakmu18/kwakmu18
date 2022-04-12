@@ -1,5 +1,5 @@
 # Hi there 👋
- 
+<div align="center">
 ### 🌱I'm currently studying: 
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/> [![wakatime](https://wakatime.com/badge/user/0ce88c5c-62f7-4206-a6dd-2c2584d76fde.svg)](https://wakatime.com/@0ce88c5c-62f7-4206-a6dd-2c2584d76fde)
@@ -31,7 +31,7 @@
  
 <!--
 **kwakmu18/kwakmu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
