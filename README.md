@@ -26,8 +26,6 @@
 
 <!--START_SECTION:waka-->
 
-[![kwakmu18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwakmu18&v=2)](https://wakatime.com/@kwakmu18&v=2)
-
 <img src="https://github-readme-stats.vercel.app/api/wakatime/?&kwakmu18&username=kwakmu18&layout=compact&&theme=default&link=https://www.github.com/kwakmu18/">
 
 <!--END_SECTION:waka-->
