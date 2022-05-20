@@ -27,7 +27,7 @@
  
 ### 🤔Baekjoon Status :
 
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mckkk119)](https://solved.ac/{mckkk119}) 
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mckkk119)](https://solved.ac/mckkk119) 
 <img src="http://mazandi.herokuapp.com/api?handle=mckkk119&theme=warm"/>
 
 
@@ -44,6 +44,6 @@
  
  #### Computer Science & Engineering, University of Ulsan
 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mckkk119)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mu_gyong)
  [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/kwakmu18)
- [![Naver](https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/mckkk119)
+ [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@kwakmu18)
