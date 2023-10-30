@@ -6,9 +6,10 @@
  
 ### 🌱I'm currently studying : 
 
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/> 
- 
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/> <img src="https://img.shields.io/badge/Pwnable-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Web Hacking-00599C?style=flat-square&logo=C&logoColor=white"/>
  
  #
 
@@ -18,7 +19,7 @@
   
 ### ⚡I use :
  
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>  <img src="https://img.shields.io/badge/vmware-607078?style=flat-square&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>  <img src="https://img.shields.io/badge/vmware-607078?style=flat-square&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-007BBB?style=flat-square&logo=docker&logoColor=white"/>
   
  <br>
  <br>
@@ -45,6 +46,7 @@
 ### 💬About me : 
  
  #### Computer Science & Engineering, University of Ulsan
+ #### Whitehat School 1기
 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mu_gyong)
  [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/kwakmu18)
