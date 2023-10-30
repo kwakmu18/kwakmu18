@@ -2,6 +2,17 @@
  
 # Welcome!👋
 
+### 💬About me : 
+ 
+ #### Computer Science & Engineering, University of Ulsan
+ #### Whitehat School 1기
+
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mu_gyong)
+ [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/kwakmu18)
+ [![Velog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://blog.naver.com/mckkk119)
+
+ #
+
   <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakmu18&layout=compact&theme=vue&link=https://github.com/kwakmu18/github-readme-stats">
  
 ### 🌱I'm currently studying : 
@@ -43,11 +54,4 @@
 
  #
  
-### 💬About me : 
- 
- #### Computer Science & Engineering, University of Ulsan
- #### Whitehat School 1기
 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mu_gyong)
- [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/kwakmu18)
- [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@kwakmu18)
