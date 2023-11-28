@@ -25,13 +25,7 @@
  #
 
 [![kwakmu18](https://github-readme-stats.vercel.app/api/wakatime?username=kwakmu18&layout=compact&count_private=true)](https://wakatime.com/@kwakmu18)
-  
-### ⚡I use :
- 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>  <img src="https://img.shields.io/badge/vmware-607078?style=flat-square&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-007BBB?style=flat-square&logo=docker&logoColor=white"/>
-  
- <br>
- <br>
+
  
  #
  
