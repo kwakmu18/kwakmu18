@@ -9,6 +9,7 @@
  #### IT융합학부 정보보안 동아리 UNKNOWN (2022~)
  #### 경남권 정보보안 연합동아리 DevSe (2023~)
  #### Whitehat School 1기 Top 20
+ #### Best of Best 13기
 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mu_gyong)
  [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/kwakmu18)
