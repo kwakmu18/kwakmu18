@@ -5,14 +5,16 @@
 ### 💬About me : 
 
  #### 곽무경
- #### Whitehat School 1기 Top 20, Best of Best 13기
- #### 울산대학교 IT융합학부 IT융합전공 (2019~)
- #### 울산대학교 IT융합학부 정보보안 동아리 UNKNOWN (2022~)
+ #### KITRI Whitehat School 1기 (2023~2024, Top 20)
+ #### KITRI Best of Best 13기 (2024~2025)
+ #### 울산대학교 IT융합학부 IT융합전공 (2019~2025)
+ #### 울산대학교 IT융합학부 정보보안 동아리 UNKNOWN (2022~2025)
 
 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mu_gyong)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kwakmu18)
  [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/kwakmu18)
- [![Velog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://blog.naver.com/mckkk119)
+ [![Velog](https://img.shields.io/badge/Naver%20Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://blog.naver.com/mckkk119)
+ [![Notion](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-1966191e998c4a0d82fafe0d8fb12177)
 
  #
 
