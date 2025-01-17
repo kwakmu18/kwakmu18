@@ -1,1 +1,1 @@
-cat /flag/flag.txt
+cat /flag/flag.txt > /tmp/flag
