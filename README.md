@@ -14,7 +14,7 @@
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kwakmu18)
  [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/kwakmu18)
  [![Velog](https://img.shields.io/badge/Naver%20Blog-20C997?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/mckkk119)
- [![Notion](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-1966191e998c4a0d82fafe0d8fb12177)
+ [![Notion](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=notion&logoColor=white)](https://kwakmu18.github.io/portfolio)
 
  #
 
