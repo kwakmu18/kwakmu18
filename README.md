@@ -5,7 +5,7 @@
 ### 💬About me : 
 
  #### 곽무경
- #### KITRI Best of Best 13기 (2024~2025, TOP 10)
+ #### KITRI Best of Best 13기 (2024~2025, Top 10)
  #### KITRI Whitehat School 1기 (2023~2024, Top 20)
  #### 울산대학교 IT융합학부 IT융합전공 (2019~2025)
  #### 울산대학교 IT융합학부 정보보안 동아리 UNKNOWN (2022~2025)
