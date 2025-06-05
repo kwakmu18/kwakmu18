@@ -33,7 +33,7 @@
 [![kwakmu18](https://github-readme-stats.vercel.app/api/wakatime?username=kwakmu18&layout=compact&count_private=true)](https://wakatime.com/@kwakmu18)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C228%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C228%20hrs%2043%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -51,15 +51,15 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C                        31 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   50.10 % 
-Python                   30 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   49.90 % 
+Python                   50 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   62.12 % 
+C                        31 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.88 % 
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+VS Code                  1 hr 21 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 
- Last Updated on 04/06/2025 15:46:55 UTC
+ Last Updated on 05/06/2025 15:27:09 UTC
 <!--END_SECTION:waka-->
 
  #
