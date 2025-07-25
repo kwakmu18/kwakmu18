@@ -14,9 +14,9 @@
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kwakmu18&layout=compact&count_private=true">
   </td>
   <td align="center" width=500px>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakmu18&layout=compact&theme=vue&link=https://github.com/kwakmu18/github-readme-stats">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mckkk119">
    <img src="http://mazandi.herokuapp.com/api?handle=mckkk119&theme=warm">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakmu18&layout=compact&theme=vue&link=https://github.com/kwakmu18/github-readme-stats">
   </td>
  </tr>
 </table>
