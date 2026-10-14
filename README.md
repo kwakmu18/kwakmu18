@@ -43,23 +43,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr 1 min          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   88.04 % 
-JavaScript               8 mins              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.96 % 
+Other                    47 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜   84.94 % 
+JavaScript               8 mins              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   96.80 % 
-Codex Vscode             2 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.20 % 
+VS Code                  53 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   95.97 % 
+Codex Vscode             2 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.03 % 
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Mac                      55 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (11.96%)
+⏱ AI Coding Time: 8 mins (15.06%)
 
-✍️ 12 lines written by AI, 262 lines written by hand (4.38% AI-written)
+✍️ 12 lines written by AI, 210 lines written by hand (5.41% AI-written)
 
 🔤 13,726 Input Tokens, 1,227 Output Tokens
 
@@ -70,14 +70,14 @@ Mac                      1 hr 10 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 GPT                      12 lines            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.38% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 5.41% of written lines came from AI
 📚 Verbose Prompter — average 18,313 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.45% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.44% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 20:36:06 UTC
+ Last Updated on 14/10/2026 19:16:50 UTC
 <!--END_SECTION:waka-->
 
 </div>
