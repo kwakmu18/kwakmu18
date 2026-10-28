@@ -61,7 +61,7 @@ Mac                      44 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```text
 ⏱ AI Coding Time: 21 mins (46.98%)
 
-✍️ 575 lines written by AI, 137 lines written by hand (80.76% AI-written)
+✍️ 575 lines written by AI, 298 lines written by hand (65.86% AI-written)
 
 🔤 314,924 Input Tokens, 32,500 Output Tokens
 
@@ -72,14 +72,14 @@ Mac                      44 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 GPT                      575 lines           ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.76% of written lines came from AI
+⚖️ Balanced with AI — 65.86% of written lines came from AI
 📝 Concise Prompter — average 58 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 19.24% of changed lines were hand-edited
+🚀 High AI Trust — 34.14% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 20:00:44 UTC
+ Last Updated on 28/10/2026 20:11:31 UTC
 <!--END_SECTION:waka-->
 
 </div>
